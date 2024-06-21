@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/jonathanmcgechie">View My LinkedIn Profile</a>
   <br><br>
-  <a href="file:///C:/Users/fgfoo/OneDrive/Desktop/Willamette%20MSDS/DATA%20599%20Cloud%20Computing/questions.html"> view My HTML page</a>
+  <a href="file:///C:/Users/fgfoo/OneDrive/Desktop/Willamette%20MSDS/DATA%20599%20Cloud%20Computing/questions.html">View My HTML page</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
