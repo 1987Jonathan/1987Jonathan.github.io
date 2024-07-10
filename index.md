@@ -5,11 +5,11 @@ I specialize in managing large datasets and performing detailed End-of-Life anal
 
 ---
 # Certifications
-[Project 1 Title](sample_page)
+[SmartSuite Pro](pdf/certificate-pro-certification.pdf)
 <img src="images/thumb1.png?raw=true"/>
-[Project 1 Title](sample_page)
+[SmartSuite Expert](pdf/certificate-expert-certification.pdf)
 <img src="images/thumb1.png?raw=true"/>
-[Project 1 Title](sample_page)
+[SmartSuite Consultant](pdf/certificate-consultant-certification.pdf)
 <img src="images/thumb1.png?raw=true"/>
 ---
 
