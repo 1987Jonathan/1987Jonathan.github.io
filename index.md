@@ -4,6 +4,14 @@ I am currently completing my final semester of a master’s program in Data Scie
 I specialize in managing large datasets and performing detailed End-of-Life analyses for products. My role often involves acting as an interdisciplinary liaison, effectively bridging communication and collaboration between different departments and leadership teams. My goal is to leverage my technical expertise and analytical skills to drive data-driven decision-making and innovation in dynamic and challenging environments.
 
 ---
+# Certifications
+[Project 1 Title](sample_page)
+<img src="images/thumb1.png?raw=true"/>
+[Project 1 Title](sample_page)
+<img src="images/thumb1.png?raw=true"/>
+[Project 1 Title](sample_page)
+<img src="images/thumb1.png?raw=true"/>
+---
 
 ## Projects
 
