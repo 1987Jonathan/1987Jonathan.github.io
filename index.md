@@ -22,12 +22,16 @@ I specialize in managing large datasets and performing detailed End-of-Life anal
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Machine Learning](/pdf/ML Presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 [Project 1 Title](sample_page)
 <img src="images/thumb1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#[Project 2 Title](/pdf/sample_presentation.pdf)
+#<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
