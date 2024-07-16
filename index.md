@@ -26,4 +26,3 @@ I specialize in managing large datasets and performing detailed End-of-Life anal
 <img src="images/Hotel.jpg?raw=true"/>
 
 ---
-[
