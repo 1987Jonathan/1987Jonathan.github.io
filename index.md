@@ -18,6 +18,10 @@ I specialize in managing large datasets and performing detailed End-of-Life anal
 
 ---
 
+[PowerBI Report](Jonathan_McGechie.pbix)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 [Project 1 Title](sample_page)
 <img src="images/thumb1.png?raw=true"/>
 
