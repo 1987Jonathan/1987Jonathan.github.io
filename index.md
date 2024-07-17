@@ -29,13 +29,14 @@ I specialize in managing large datasets and performing detailed End-of-Life anal
 [Coming Soon]
 
 ---
+[Capstone Project]
 
-[Covid vaccination rate and deaths]
-
----
-[Capstone]
 
 ---
 [SaaS Presentation]
+
+---
+[Covid vaccination rate and deaths]
+
 
 ---
