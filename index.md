@@ -37,6 +37,6 @@ SaaS Presentation
 
 ---
 Covid vaccination rate and deaths
-<img src="images/covid.png?raw=true"/>
+
 
 ---
