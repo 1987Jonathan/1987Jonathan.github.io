@@ -1,7 +1,7 @@
 ## About Me
-I am currently completing my final semester of a master’s program in Data Science, with a keen interest in transitioning into the field of Data Engineering. My technical skills include proficiency in PostgreSQL, Python, PowerBI, and SmartSuite. With working knowledge in R,Tableau, and gitbash. Throughout my academic and professional journey, I have gained valuable experience working with various software platforms, including Salesforce, Dynamics AX ERP, and PLM systems.
+I am completing my final semester of a master’s program in Data Science, with a keen interest in transitioning into the field of Data Engineering. My technical skills include proficiency in PostgreSQL, Python, PowerBI, and SmartSuite, along with working knowledge in R, Tableau, and gitbash. Throughout my academic and professional journey, I have gained valuable experience working with various software platforms, including Salesforce, Dynamics AX ERP, and PLM systems.
 
-I specialize in managing large datasets and performing detailed End-of-Life analyses for products. My role often involves acting as an interdisciplinary liaison, effectively bridging communication and collaboration between different departments and leadership teams. My goal is to leverage my technical expertise and analytical skills to drive data-driven decision-making and innovation in dynamic and challenging environments.
+I specialize in managing large datasets and performing detailed End-of-Life analyses for products. My role often involves acting as an interdisciplinary liaison, effectively bridging communication and collaboration between different departments and leadership teams. My goal is to leverage my technical expertise and analytical skills to drive data-driven decision-making and foster innovation in dynamic and challenging environments.
 
 ---
 ## Certifications
