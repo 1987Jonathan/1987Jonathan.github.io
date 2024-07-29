@@ -30,7 +30,7 @@ This was a presetation for our Machine Learning Class. In the powerpoint we talk
 <img src="images/Hotel.jpg?raw=true"/>
 
 ---
-[Natural Language Processing (NLP)]
+[Natural Language Processing (NLP)](/pdf/_aholland_jjmcgechie_NLPPROJECT.pptx)
 ---
 This was a class activity that I worked with a partner developing a NLP to analyze 3 books. Moby Dick, Little Women, and Little Men. The goal of this NLP was to analyze the masculine/feminine subject and objective pronouns.
 
