@@ -41,6 +41,7 @@ Current Projects
 
 ---
 Capstone Project
+[Exploring the Barriers to Affordable Housing in Oregon]
 
 
 ---
