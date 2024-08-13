@@ -26,7 +26,7 @@ This is a PowerBI Dashboard for product sales and companies that made the purcha
 ---
 [Machine Learning Project](/pdf/ML Presentation.pdf)
 
-This was a presetation for our Machine Learning Class. In the powerpoint we talk about how we structed the data. Some of our findings running through various ML models. We found we had better accuracy using Random Forest Classifier. The goal for this project was to learn different Machine Learning models and give practice on a real life project.
+This was a presentation for our Machine Learning Class. In the powerpoint we talk about how we structed the data. Some of our findings running through various ML models. We found we had better accuracy using Random Forest Classifier. The goal for this project was to learn different Machine Learning models and give practice on a real life project.
 <img src="images/Hotel.jpg?raw=true"/>
 
 
