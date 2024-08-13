@@ -30,7 +30,6 @@ I specialize in managing large datasets and performing detailed End-of-Life anal
 
 ---
 [Product Sales & Company Insights Dashboard](https://app.powerbi.com/groups/me/reports/dadec2ca-04b4-4f3a-9a6e-666739c096c9/ReportSection78e4e1f0d4b3662e1485?experience=power-bi&ownerId=8647d4d1-04d0-4c1a-8a4f-bf49d3e82ad6&referrer=embed.appsource)
-
 Welcome to the Product Sales & Company Insights Dashboard, a comprehensive tool designed to analyze product sales and track purchasing companies. This interactive dashboard, created as part of a final class project, offers detailed insights into:
 <br><br>
 1) Sales Performance: View and analyze sales data for various products.
@@ -44,7 +43,6 @@ This dashboard utilizes data provided through an Excel file, supplied by our Pro
 
 ---
 [Machine Learning Class Presentation](/pdf/ML Presentation.pdf)
-
 In this presentation for our Machine Learning class, we delve into the details of our project, which involved applying various machine learning models to a real-world dataset. We begin by explaining how we structured and preprocessed the data to make it suitable for analysis. Our exploration of different machine learning models highlighted that the Random Forest Classifier achieved the highest accuracy compared to the other models we tested.
 
 The primary goal of this project was to gain practical experience with different machine learning techniques and to apply these methods to a real-life scenario. For a comprehensive view of our findings and methodologies, you can access the full presentation.
@@ -53,7 +51,6 @@ The primary goal of this project was to gain practical experience with different
 ---
 
 [NLP Class Activity: Analyzing Literary Texts](/pdf/aholland_jjmcgechie_NLPPROJECT.pdf)
-
 In this class activity, I collaborated with a partner to develop a Natural Language Processing (NLP) algorithm aimed at analyzing the use of masculine and feminine subject and objective pronouns in three classic novels: Moby Dick, Little Women, and Little Men.
 
 The objective of our NLP analysis was to examine the distribution and usage patterns of these pronouns across the texts, providing insights into gender representation and linguistic trends within these literary works.
