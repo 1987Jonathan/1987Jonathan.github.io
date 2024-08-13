@@ -5,7 +5,7 @@ I specialize in managing large datasets and performing detailed End-of-Life anal
 
 ---
 ## Ways to Contact
-  <br><br>
+---
   <a href="https://www.linkedin.com/in/jonathanmcgechie">View My LinkedIn Profile</a>
   <br><br>
   <a href="questions.html">View My HTML page</a>
@@ -34,11 +34,9 @@ I specialize in managing large datasets and performing detailed End-of-Life anal
 Welcome to the Product Sales & Company Insights Dashboard, a comprehensive tool designed to analyze product sales and track purchasing companies. This interactive dashboard, created as part of a final class project, offers detailed insights into:
 <br><br>
 1) Sales Performance: View and analyze sales data for various products.
-<br><br>
 2) Company Information: Access details about companies making purchases.
-<br><br>   
 3) Geographic Distribution: Explore the locations of these companies on an interactive map.
-
+<br><br>
 This dashboard utilizes data provided through an Excel file, supplied by our Professor, and has been developed using Power BI. To access the live version of the dashboard, please click the link below. Note that you may need to log in with a Microsoft Account.
 <img src="images/PowerBI_Dashboard.jpg?raw=true"/>
 
