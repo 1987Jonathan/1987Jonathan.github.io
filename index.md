@@ -6,7 +6,7 @@ I specialize in managing large datasets and performing detailed End-of-Life anal
 ---
 ## Ways to Contact
 ---
-  <a href="https://www.linkedin.com/in/jonathanmcgechie">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/jmcgechie/">View My LinkedIn Profile</a>
   <br><br>
   <a href="questions.html">View My HTML page</a>
   <br><br>
