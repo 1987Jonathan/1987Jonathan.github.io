@@ -32,9 +32,9 @@ This was a presentation for our Machine Learning Class. In the powerpoint we tal
 
 ---
 
-[Natural Language Processing (NLP)](/pdf/_aholland_jjmcgechie_NLPPROJECT.pdf)
+[Natural Language Processing (NLP)](/pdf/aholland_jjmcgechie_NLPPROJECT.pdf)
 
-This was a class activity that I worked with a partner developing a NLP to analyze 3 books. Moby Dick, Little Women, and Little Men. The goal of this NLP was to analyze the masculine/feminine subject and objective pronouns.
+This was a class activity that I worked with a partner developing a NLP algorithm to analyze 3 books. Moby Dick, Little Women, and Little Men. The goal of this NLP was to analyze the masculine/feminine subject and objective pronouns.
 <img src="images/nlp.jpg?raw=true"/>
 
 Current Projects
