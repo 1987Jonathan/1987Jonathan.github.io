@@ -50,7 +50,6 @@ In this presentation for our Machine Learning class, we delve into the details o
 The primary goal of this project was to gain practical experience with different machine learning techniques and to apply these methods to a real-life scenario. For a comprehensive view of our findings and methodologies, you can access the full presentation.
 <img src="images/Hotel.jpg?raw=true"/>
 
-
 ---
 
 [NLP Class Activity: Analyzing Literary Texts](/pdf/aholland_jjmcgechie_NLPPROJECT.pdf)
@@ -60,6 +59,7 @@ In this class activity, I collaborated with a partner to develop a Natural Langu
 The objective of our NLP analysis was to examine the distribution and usage patterns of these pronouns across the texts, providing insights into gender representation and linguistic trends within these literary works.
 <img src="images/nlp.jpg?raw=true"/>
 
+---
 Current Projects
 
 ---
