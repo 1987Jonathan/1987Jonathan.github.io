@@ -4,6 +4,16 @@ I am completing my final semester of a master’s program in Data Science, with 
 I specialize in managing large datasets and performing detailed End-of-Life analyses for products. My role often involves acting as an interdisciplinary liaison, effectively bridging communication and collaboration between different departments and leadership teams. My goal is to leverage my technical expertise and analytical skills to drive data-driven decision-making and foster innovation in dynamic and challenging environments.
 
 ---
+## Ways to Contact
+  <br><br>
+  <a href="https://www.linkedin.com/in/jonathanmcgechie">View My LinkedIn Profile</a>
+  <br><br>
+  <a href="questions.html">View My HTML page</a>
+  <br><br>
+  <a href="/pdf/Data_Engineering.pdf"> Resume </a>
+  <br><br>
+  <a href="mailto:jjmcgecgechie@willamette.edu"> Email </a>
+---
 ## Certifications
 ---
 [SmartSuite Pro](pdf/certificate-pro-certification.pdf)
