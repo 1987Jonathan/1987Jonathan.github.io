@@ -23,7 +23,9 @@ I specialize in managing large datasets and performing detailed End-of-Life anal
 Welcome to the Product Sales & Company Insights Dashboard, a comprehensive tool designed to analyze product sales and track purchasing companies. This interactive dashboard, created as part of a final class project, offers detailed insights into:
 
 1) Sales Performance: View and analyze sales data for various products.
-3) Company Information: Access details about companies making purchases.
+   
+2) Company Information: Access details about companies making purchases.
+   
 3) Geographic Distribution: Explore the locations of these companies on an interactive map.
 
 This dashboard utilizes data provided through an Excel file, supplied by our Professor, and has been developed using Power BI. To access the live version of the dashboard, please click the link below. Note that you may need to log in with a Microsoft Account.
