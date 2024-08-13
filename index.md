@@ -66,6 +66,7 @@ For our capstone project, we conducted an in-depth analysis of the affordable ho
 Through our research, we discovered that Oregon faces a significant deficit in available homes. However, the state has begun implementing measures to address this issue. Notably, legislation has been enacted requiring all counties to report housing data and make it publicly accessible. Despite these efforts, we observed a lack of historical land sale records, which complicates the analysis. Additionally, we found that house prices in less populated counties are often inflated due to the inclusion of land with the home.
 
 One of the key legislative initiatives is H.B. 2001, aimed at making homeownership more affordable in Oregon. While this is a positive step, our findings suggest that further action is needed to fully address the housing affordability crisis.
+<img src="images/Exploring the Barriers to Affordable Housing in Oregon.jpg?raw=true"/>
 
 ---
 [Final project for Intro SaaS/ProServ Sales]
