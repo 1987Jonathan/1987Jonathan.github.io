@@ -57,9 +57,7 @@ The objective of our NLP analysis was to examine the distribution and usage patt
 <img src="images/nlp.jpg?raw=true"/>
 
 ---
-Current Projects
 
----
 [Exploring the Barriers to Affordable Housing in Oregon](/pdf/Capstone_2024.pdf)
 For our capstone project, we conducted an in-depth analysis of the affordable housing landscape in Oregon. Working closely with my project partner, we demonstrated various aspects of our graduate education, including Data Engineering, Data Visualization, Machine Learning, Statistical Thinking, and Data Ethics. Our project involved both a comprehensive write-up and a presentation.
 
@@ -69,6 +67,10 @@ One of the key legislative initiatives is H.B. 2001, aimed at making homeownersh
 <img src="images/Exploring the Barriers to Affordable Housing in Oregon.jpg?raw=true"/>
 
 ---
+Current Projects
+
+---
+
 [Final project for Intro SaaS/ProServ Sales]
 In our final project for the Intro to SaaS/ProServ Sales course, we developed a comprehensive sales pitch for Wide World Importers, focusing on addressing a key challenge within their operations. Our solution centered around enhancing their refrigeration trucks by integrating advanced monitoring, recording, tracking, and repair systems for their tractor trailers.
 
