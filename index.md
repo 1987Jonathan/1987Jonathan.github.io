@@ -43,17 +43,21 @@ This dashboard utilizes data provided through an Excel file, supplied by our Pro
 <img src="images/PowerBI_Dashboard.jpg?raw=true"/>
 
 ---
-[Machine Learning Project](/pdf/ML Presentation.pdf)
+[Machine Learning Class Presentation](/pdf/ML Presentation.pdf)
 
-This was a presentation for our Machine Learning Class. In the powerpoint we talk about how we structed the data. Some of our findings running through various ML models. We found we had better accuracy using Random Forest Classifier. The goal for this project was to learn different Machine Learning models and give practice on a real life project.
+In this presentation for our Machine Learning class, we delve into the details of our project, which involved applying various machine learning models to a real-world dataset. We begin by explaining how we structured and preprocessed the data to make it suitable for analysis. Our exploration of different machine learning models highlighted that the Random Forest Classifier achieved the highest accuracy compared to the other models we tested.
+
+The primary goal of this project was to gain practical experience with different machine learning techniques and to apply these methods to a real-life scenario. For a comprehensive view of our findings and methodologies, you can access the full presentation.
 <img src="images/Hotel.jpg?raw=true"/>
 
 
 ---
 
-[Natural Language Processing (NLP)](/pdf/aholland_jjmcgechie_NLPPROJECT.pdf)
+[NLP Class Activity: Analyzing Literary Texts](/pdf/aholland_jjmcgechie_NLPPROJECT.pdf)
 
-This was a class activity that I worked with a partner developing a NLP algorithm to analyze 3 books. Moby Dick, Little Women, and Little Men. The goal of this NLP was to analyze the masculine/feminine subject and objective pronouns.
+In this class activity, I collaborated with a partner to develop a Natural Language Processing (NLP) algorithm aimed at analyzing the use of masculine and feminine subject and objective pronouns in three classic novels: Moby Dick, Little Women, and Little Men.
+
+The objective of our NLP analysis was to examine the distribution and usage patterns of these pronouns across the texts, providing insights into gender representation and linguistic trends within these literary works.
 <img src="images/nlp.jpg?raw=true"/>
 
 Current Projects
