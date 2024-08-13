@@ -63,7 +63,6 @@ The objective of our NLP analysis was to examine the distribution and usage patt
 Current Projects
 
 ---
-Capstone Project
 [Exploring the Barriers to Affordable Housing in Oregon]
 For our capstone project, we conducted an in-depth analysis of the affordable housing landscape in Oregon. Working closely with my project partner, we demonstrated various aspects of our graduate education, including Data Engineering, Data Visualization, Machine Learning, Statistical Thinking, and Data Ethics. Our project involved both a comprehensive write-up and a presentation.
 
@@ -71,15 +70,14 @@ Through our research, we discovered that Oregon faces a significant deficit in a
 
 One of the key legislative initiatives is H.B. 2001, aimed at making homeownership more affordable in Oregon. While this is a positive step, our findings suggest that further action is needed to fully address the housing affordability crisis.
 
-
 ---
-SaaS Presentation
 [Final project for Intro SaaS/ProServ Sales]
 In our final project for the Intro to SaaS/ProServ Sales course, we developed a comprehensive sales pitch for Wide World Importers, focusing on addressing a key challenge within their operations. Our solution centered around enhancing their refrigeration trucks by integrating advanced monitoring, recording, tracking, and repair systems for their tractor trailers.
 
 We proposed a cutting-edge solution designed to streamline and optimize the management of refrigeration units. This included real-time monitoring to ensure consistent temperature control, recording data for compliance and analysis, and tracking system performance to predict maintenance needs. Additionally, we introduced a repair management component to minimize downtime and ensure the efficiency of the fleet.
 
 Our pitch aimed to showcase how these enhancements could improve operational efficiency, reduce costs, and ensure the reliability of refrigerated transport, ultimately delivering substantial value to Wide World Importers.
+
 ---
 Covid vaccination rate and deaths
 
