@@ -60,7 +60,7 @@ The objective of our NLP analysis was to examine the distribution and usage patt
 Current Projects
 
 ---
-[Exploring the Barriers to Affordable Housing in Oregon]
+[Exploring the Barriers to Affordable Housing in Oregon](/pdf/Capstone_2024.pdf)
 For our capstone project, we conducted an in-depth analysis of the affordable housing landscape in Oregon. Working closely with my project partner, we demonstrated various aspects of our graduate education, including Data Engineering, Data Visualization, Machine Learning, Statistical Thinking, and Data Ethics. Our project involved both a comprehensive write-up and a presentation.
 
 Through our research, we discovered that Oregon faces a significant deficit in available homes. However, the state has begun implementing measures to address this issue. Notably, legislation has been enacted requiring all counties to report housing data and make it publicly accessible. Despite these efforts, we observed a lack of historical land sale records, which complicates the analysis. Additionally, we found that house prices in less populated counties are often inflated due to the inclusion of land with the home.
