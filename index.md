@@ -18,9 +18,15 @@ I specialize in managing large datasets and performing detailed End-of-Life anal
 
 
 ---
-[PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/dadec2ca-04b4-4f3a-9a6e-666739c096c9/ReportSection78e4e1f0d4b3662e1485?experience=power-bi&ownerId=8647d4d1-04d0-4c1a-8a4f-bf49d3e82ad6&referrer=embed.appsource)
+[Product Sales & Company Insights Dashboard](https://app.powerbi.com/groups/me/reports/dadec2ca-04b4-4f3a-9a6e-666739c096c9/ReportSection78e4e1f0d4b3662e1485?experience=power-bi&ownerId=8647d4d1-04d0-4c1a-8a4f-bf49d3e82ad6&referrer=embed.appsource)
 
-This is a PowerBI Dashboard for product sales and companies that made the purchases. It also shows the location of the companies. 
+Welcome to the Product Sales & Company Insights Dashboard, a comprehensive tool designed to analyze product sales and track purchasing companies. This interactive dashboard, created as part of a final class project, offers detailed insights into:
+
+1) Sales Performance: View and analyze sales data for various products.
+3) Company Information: Access details about companies making purchases.
+3) Geographic Distribution: Explore the locations of these companies on an interactive map.
+
+This dashboard utilizes data provided through an Excel file, supplied by our Professor, and has been developed using Power BI. To access the live version of the dashboard, please click the link below. Note that you may need to log in with a Microsoft Account.
 <img src="images/PowerBI_Dashboard.jpg?raw=true"/>
 
 ---
