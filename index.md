@@ -41,21 +41,24 @@ This dashboard utilizes data provided through an Excel file, supplied by our Pro
 <img src="images/PowerBI_Dashboard.jpg?raw=true"/>
 
 ---
-[Machine Learning Class Presentation](/pdf/ML Presentation.pdf)<br><br> In this presentation for our Machine Learning class, we delve into the details of our project, which involved applying various machine learning models to a real-world dataset. We begin by explaining how we structured and preprocessed the data to make it suitable for analysis. Our exploration of different machine learning models highlighted that the Random Forest Classifier achieved the highest accuracy compared to the other models we tested.
+[Machine Learning Class Presentation](/pdf/ML Presentation.pdf)<br><br>
+In this presentation for our Machine Learning class, we delve into the details of our project, which involved applying various machine learning models to a real-world dataset. We begin by explaining how we structured and preprocessed the data to make it suitable for analysis. Our exploration of different machine learning models highlighted that the Random Forest Classifier achieved the highest accuracy compared to the other models we tested.
 
 The primary goal of this project was to gain practical experience with different machine learning techniques and to apply these methods to a real-life scenario. For a comprehensive view of our findings and methodologies, you can access the full presentation.
 <img src="images/Hotel.jpg?raw=true"/>
 
 ---
 
-[NLP Class Activity: Analyzing Literary Texts](/pdf/aholland_jjmcgechie_NLPPROJECT.pdf)<br><br> In this class activity, I collaborated with a partner to develop a Natural Language Processing (NLP) algorithm aimed at analyzing the use of masculine and feminine subject and objective pronouns in three classic novels: Moby Dick, Little Women, and Little Men.
+[NLP Class Activity: Analyzing Literary Texts](/pdf/aholland_jjmcgechie_NLPPROJECT.pdf)<br><br>
+In this class activity, I collaborated with a partner to develop a Natural Language Processing (NLP) algorithm aimed at analyzing the use of masculine and feminine subject and objective pronouns in three classic novels: Moby Dick, Little Women, and Little Men.
 
 The objective of our NLP analysis was to examine the distribution and usage patterns of these pronouns across the texts, providing insights into gender representation and linguistic trends within these literary works.
 <img src="images/nlp.jpg?raw=true"/>
 
 ---
 
-[Exploring the Barriers to Affordable Housing in Oregon](/pdf/Capstone_2024.pdf)<br><br> For our capstone project, we conducted an in-depth analysis of the affordable housing landscape in Oregon. Working closely with my project partner, we demonstrated various aspects of our graduate education, including Data Engineering, Data Visualization, Machine Learning, Statistical Thinking, and Data Ethics. Our project involved both a comprehensive write-up and a presentation.
+[Exploring the Barriers to Affordable Housing in Oregon](/pdf/Capstone_2024.pdf)<br><br>
+For our capstone project, we conducted an in-depth analysis of the affordable housing landscape in Oregon. Working closely with my project partner, we demonstrated various aspects of our graduate education, including Data Engineering, Data Visualization, Machine Learning, Statistical Thinking, and Data Ethics. Our project involved both a comprehensive write-up and a presentation.
 
 Through our research, we discovered that Oregon faces a significant deficit in available homes. However, the state has begun implementing measures to address this issue. Notably, legislation has been enacted requiring all counties to report housing data and make it publicly accessible. Despite these efforts, we observed a lack of historical land sale records, which complicates the analysis. Additionally, we found that house prices in less populated counties are often inflated due to the inclusion of land with the home.
 
