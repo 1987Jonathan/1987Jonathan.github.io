@@ -70,7 +70,7 @@ Current Projects
 
 ---
 
-[Final project for Intro SaaS/ProServ Sales]
+[Final project for Intro SaaS/ProServ Sales]<br><br>
 In our final project for the Intro to SaaS/ProServ Sales course, we developed a comprehensive sales pitch for Wide World Importers, focusing on addressing a key challenge within their operations. Our solution centered around enhancing their refrigeration trucks by integrating advanced monitoring, recording, tracking, and repair systems for their tractor trailers.
 
 We proposed a cutting-edge solution designed to streamline and optimize the management of refrigeration units. This included real-time monitoring to ensure consistent temperature control, recording data for compliance and analysis, and tracking system performance to predict maintenance needs. Additionally, we introduced a repair management component to minimize downtime and ensure the efficiency of the fleet.
