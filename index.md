@@ -73,6 +73,7 @@ In our final project for the Intro to SaaS/ProServ Sales course, we developed a 
 We proposed a cutting-edge solution designed to streamline and optimize the management of refrigeration units. This included real-time monitoring to ensure consistent temperature control, recording data for compliance and analysis, and tracking system performance to predict maintenance needs. Additionally, we introduced a repair management component to minimize downtime and ensure the efficiency of the fleet.
 
 Our pitch aimed to showcase how these enhancements could improve operational efficiency, reduce costs, and ensure the reliability of refrigerated transport, ultimately delivering substantial value to Wide World Importers.
+<img src="images/3J Enterprises.jpg?raw-true"/>
 
 ---
 
