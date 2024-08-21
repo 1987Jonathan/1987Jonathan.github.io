@@ -66,11 +66,8 @@ One of the key legislative initiatives is H.B. 2001, aimed at making homeownersh
 <img src="images/Exploring the Barriers to Affordable Housing in Oregon.jpg?raw=true"/>
 
 ---
-Current Projects
 
----
-
-[Final project for Intro SaaS/ProServ Sales]<br><br>
+[Final project for Intro SaaS/ProServ Sales](pdf/3J%20Enterprises.pdf)<br><br>
 In our final project for the Intro to SaaS/ProServ Sales course, we developed a comprehensive sales pitch for Wide World Importers, focusing on addressing a key challenge within their operations. Our solution centered around enhancing their refrigeration trucks by integrating advanced monitoring, recording, tracking, and repair systems for their tractor trailers.
 
 We proposed a cutting-edge solution designed to streamline and optimize the management of refrigeration units. This included real-time monitoring to ensure consistent temperature control, recording data for compliance and analysis, and tracking system performance to predict maintenance needs. Additionally, we introduced a repair management component to minimize downtime and ensure the efficiency of the fleet.
@@ -78,6 +75,11 @@ We proposed a cutting-edge solution designed to streamline and optimize the mana
 Our pitch aimed to showcase how these enhancements could improve operational efficiency, reduce costs, and ensure the reliability of refrigerated transport, ultimately delivering substantial value to Wide World Importers.
 
 ---
+
+Current Projects
+
+---
+
 Covid vaccination rate and deaths
 
 
