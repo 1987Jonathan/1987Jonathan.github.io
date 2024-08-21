@@ -10,7 +10,7 @@ I specialize in managing large datasets and performing detailed End-of-Life anal
   <br><br>
   <a href="questions.html">View My HTML page</a>
   <br><br>
-  <a href="/pdf/Data_Engineering.pdf"> Resume </a>
+  <a href="/pdf/McGechie_Jonathan_Entry_Level_Data_Analyst.pdf"> Resume </a>
   <br><br>
   <a href="mailto:jjmcgecgechie@willamette.edu"> Email </a>
   <br><br>
