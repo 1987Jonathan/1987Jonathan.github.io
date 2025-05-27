@@ -81,6 +81,8 @@ Current Projects
 
 ---
 
+Expansion of Midterm Project Bookshelf
+
 Covid vaccination rate and deaths
 
 
