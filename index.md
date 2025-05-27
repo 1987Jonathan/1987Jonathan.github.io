@@ -82,6 +82,40 @@ Current Projects
 ---
 
 Expansion of Midterm Project Bookshelf
+<br><br>Project Overview: Personal Reading Tracker (SQL + Python + Power BI)
+This project is a continuation of a database-focused assignment I began during my Master’s program, where we were tasked with solving problems using SQL commands such as JOINs, GROUP BY, and others. I have since expanded the dataset to include a personal collection of books I have either read, am currently reading, or plan to read (TBR – To Be Read).<br><br>
+<br><br>
+The project is divided into three phases:
+<br><br>
+Phase 1: Database Design and SQL Integration
+1) Created and populated three distinct PostgreSQL tables:
+2) Books (book titles, authors, page count, etc.)
+3) Reading_Status (read, currently reading, TBR)
+4) Book_Metadata (genre, rating, date added)
+5) Used SQL joins to combine these tables into a comprehensive dataset for analysis.
+6) Sample SQL queries were used to answer basic questions like:
+7) Total number of books in each category
+8) Average page count by reading status
+9) Most frequent genres in TBR list
+<br><br>
+Phase 2: Python Data Analysis
+1) Used Pandas and Matplotlib/Seaborn for data manipulation and visualization.
+2) Analyzed trends such as:
+3) Distribution of page counts across statuses
+4) Total pages read vs. remaining pages (TBR)
+5) Author frequency and book counts
+6) Derived insights from SQL output for more advanced exploration.
+<br><br>
+Phase 3: Power BI Dashboard
+1) Built a dynamic dashboard visualizing:
+2) Number of books in each reading status
+3) Total pages read, in-progress, and remaining (TBR)
+4) Breakdown by genre, author, or year added
+5) Configured the report to auto-refresh from the PostgreSQL database to ensure up-to-date tracking.
+<br><br>
+This project demonstrates my ability to integrate database management, data analysis, and business intelligence tools to track personal goals and insights. It showcases end-to-end data handling, from structured data modeling to clear and interactive reporting.<br><br>
+
+
 
 Covid vaccination rate and deaths
 
